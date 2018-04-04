@@ -1,0 +1,13 @@
+img{
+    margin: auto;
+    margin-top: 70px;
+    display: block;
+}
+#button-wrapper{
+    text-align: center;
+    margin: 100px;
+}
+#order-button{
+    font-size: 3em;
+    padding: 5px 20px;
+}
